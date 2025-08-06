@@ -1,0 +1,17 @@
+🔗 How to Get OpenWeatherMap API Key
+Go to: https://openweathermap.org/api
+
+Sign up
+
+Go to “API keys” in your dashboard
+
+Copy the key and paste it into apiKey in the code
+
+🔑 Replace with Your API Key
+Replace this line:
+
+javascript
+Copy
+Edit
+const apiKey = "YOUR_API_KEY_HERE";
+with your real API key from OpenWeatherMap.
